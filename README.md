@@ -1,2 +1,3 @@
-# python
-开始学习
+从零成为python运维
+10天学完python基础
+现在学习linux
